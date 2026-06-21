@@ -6,14 +6,14 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "HardNemoBG.aternos.me",
+    "port": 36226,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 10000000,
     "y": 100,
     "z": 0
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
